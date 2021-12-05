@@ -1,4 +1,4 @@
-Mahine Learning Cyber Security anlysis
+Machine Learning Cyber Security analysis
 
 1) Most targeted Destination IP Address
 2) Most Logical Ports attacked
